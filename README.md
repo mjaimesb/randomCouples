@@ -5,7 +5,7 @@ Couples generator
 
 # Usages
 ```
-$players = array('membre1','membre2','membre3','...');
+$players = array('member1','member2','member3','...');
 $fixture = new Fixture($players);
 ```
 Get simple couples not sorted
